@@ -1,0 +1,11 @@
+from,to,weight,duration,relationship
+Ego,Leonie,2,3,7
+Ego,Gabriele,4,3,1
+Ego,Nora,3,1,6
+Ego,Julia,2,1,6
+Julia,Nora,2,1,6
+Nora,Julia,2,1,6
+Leonie,Ego,2,3,7
+Gabriele,Ego,4,3,1
+Nora ,Ego,3,1,6
+Julia,Ego,2,1,6
